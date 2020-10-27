@@ -29,6 +29,7 @@
       "receivePassword": "HNSS2322"
     },
     {
+      "consecutiveDays": 1,
       "prize": "情睡前小故事*1 + 早睡补签卡*1",
       "isReceived": false,
       "receivePassword": "KNSS2352"

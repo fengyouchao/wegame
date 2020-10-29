@@ -1,11 +1,10 @@
 {
-  "title": "",
-  "description": "",
+  "title": "早睡激励计划",
+  "description": "当天23:00点关灯睡觉则算是早睡",
   "startTime": "2020-11-01",
-  "endTime": "2020-12-01",
+  "endTime": "2021-01-15",
   "reissueCard": 0,
   "completionDates": [
-    "2020-11-01",
     "2020-11-04",
     "2020-11-05",
     "2020-11-07",
@@ -17,20 +16,44 @@
   ],
   "items": [
     {
-      "consecutiveDays": 4,
-      "prize": "温情睡前小故事*1 + 早睡补签卡*1",
+      "totalDays": 3,
+      "prize": "情睡前小故事*2 + 早睡补签卡*1",
       "isReceived": false,
       "receivePassword": "HNSS2322"
     },
     {
-      "consecutiveDays": 1,
-      "prize": "温情睡前小故事*1 + 早睡补签卡*1",
-      "isReceived": true,
+      "consecutiveDays": 3,
+      "prize": "雪糕*1",
+      "isReceived": false,
       "receivePassword": "HNSS2322"
     },
     {
-      "totalDays": 1,
-      "prize": "情睡前小故事*1 + 早睡补签卡*1",
+      "consecutiveDays": 10,
+      "prize": "炸鸡套餐*1",
+      "isReceived": false,
+      "receivePassword": "HNSS2322"
+    },
+    {
+      "totalDays": 10,
+      "prize": "洛馍卷菜*1 + 早睡补签卡*1",
+      "isReceived": false,
+      "receivePassword": "KNSS2352"
+    },
+    {
+      "totalDays": 15,
+      "prize": "肉夹馍*1 + 早睡补签卡*1",
+      "isReceived": false,
+      "receivePassword": "KNSS2352"
+    },
+    {
+      "totalDays": 20,
+      "prize": "香肠*1 + 奶茶*1 + 早睡补签卡*1",
+      "isReceived": false,
+      "receivePassword": "KNSS2352"
+    },
+    {
+      "totalDays": 30,
+      "prize": "小火锅*1 + 奶茶*1",
       "isReceived": false,
       "receivePassword": "KNSS2352"
     }

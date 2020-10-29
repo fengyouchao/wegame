@@ -5,57 +5,51 @@
   "endTime": "2021-01-15",
   "reissueCard": 0,
   "completionDates": [
-    "2020-11-04",
-    "2020-11-05",
-    "2020-11-07",
-    "2020-11-08",
-    "2020-11-09"
   ],
   "reissueDates": [
-    "2020-11-03"
   ],
   "items": [
     {
       "totalDays": 3,
       "prize": "情睡前小故事*2 + 早睡补签卡*1",
       "isReceived": false,
-      "receivePassword": "HNSS2322"
+      "receivePassword": "TDSS2323"
     },
     {
       "consecutiveDays": 3,
       "prize": "雪糕*1",
       "isReceived": false,
-      "receivePassword": "HNSS2322"
+      "receivePassword": "CDSS2323"
     },
     {
       "consecutiveDays": 10,
       "prize": "炸鸡套餐*1",
       "isReceived": false,
-      "receivePassword": "HNSS2322"
+      "receivePassword": "CDS32310"
     },
     {
       "totalDays": 10,
       "prize": "洛馍卷菜*1 + 早睡补签卡*1",
       "isReceived": false,
-      "receivePassword": "KNSS2352"
+      "receivePassword": "TDSS2310"
     },
     {
       "totalDays": 15,
       "prize": "肉夹馍*1 + 早睡补签卡*1",
       "isReceived": false,
-      "receivePassword": "KNSS2352"
+      "receivePassword": "TDSS2315"
     },
     {
       "totalDays": 20,
       "prize": "香肠*1 + 奶茶*1 + 早睡补签卡*1",
       "isReceived": false,
-      "receivePassword": "KNSS2352"
+      "receivePassword": "TDSS2320"
     },
     {
       "totalDays": 30,
       "prize": "小火锅*1 + 奶茶*1",
       "isReceived": false,
-      "receivePassword": "KNSS2352"
+      "receivePassword": "TDSS2330"
     }
   ]
 }
